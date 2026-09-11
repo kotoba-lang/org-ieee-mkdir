@@ -1,4 +1,4 @@
-;; test/mkdir_test.cljs -- build the command and compare it with /bin/mkdir on
+;; test/mkdir_test.cljk -- build the command and compare it with /bin/mkdir on
 ;; stdout, stderr, exit status AND the resulting directory tree.
 ;;
 ;; mkdir writes nothing to stdout when it succeeds, so an output-only
